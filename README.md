@@ -6,4 +6,4 @@ Git is the most popular and the most used VCS today. Almost every IT company use
 
 Dum
 
-Main branch text
+Main branch text for commiting in main branch
